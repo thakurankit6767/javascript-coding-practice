@@ -37,9 +37,11 @@ var g = 0;
 g = 1 && g++;
 console.log(g);
 ```
-```
+<details><summary><b>Answer</b></summary>
+
 0
-```
+
+</details>
 
 <div align="right">
     <b><a href="#javascript-coding-practice">↥ back to top</a></b>
