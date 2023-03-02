@@ -37,6 +37,9 @@ var g = 0;
 g = 1 && g++;
 console.log(g);
 ```
+```
+0
+```
 
 <div align="right">
     <b><a href="#javascript-coding-practice">↥ back to top</a></b>
